@@ -8,7 +8,7 @@
       <p><b>CSDN：https://me.csdn.net/weixin_44814802</b></p>
       </td>
     <td width="25%">
-      <img src="/xiezui.jpg" width="100%">      
+      <img src="xiezui.jpg" width="100%">      
     </td>
   </tr>
 </table>
